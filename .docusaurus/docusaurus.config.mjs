@@ -25,7 +25,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "D:\\Quarter-4\\hack\\sidebars.js",
+          "sidebarPath": "D:\\Quarter-4\\Physical-AI-Humanoid-Robotics-Textbook\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -33,7 +33,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "D:\\Quarter-4\\hack\\src\\css\\custom.css"
+          "customCss": "D:\\Quarter-4\\Physical-AI-Humanoid-Robotics-Textbook\\src\\css\\custom.css"
         }
       }
     ]
