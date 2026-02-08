@@ -5,7 +5,7 @@
   "source": "@site/docs/intro/overview.md",
   "sourceDirName": "intro",
   "slug": "/intro/overview",
-  "permalink": "/docs/intro/overview",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/overview",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro/overview.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to Humanoid Robotics",
-    "permalink": "/docs/intro/"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/"
   },
   "next": {
     "title": "Module 1: The Robotic Nervous System (ROS 2)",
-    "permalink": "/docs/category/module-1-the-robotic-nervous-system-ros-2"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-1-the-robotic-nervous-system-ros-2"
   }
 }

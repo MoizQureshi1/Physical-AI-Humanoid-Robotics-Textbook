@@ -1,189 +1,146 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs-d2a": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "aba21aa0"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs-4ac": {
+    "__comp": "a7bd4aaa",
+    "__props": "8323a835"
   },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs-580": {
+    "__comp": "a94703ab"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/-377": {
+    "__comp": "17896441",
+    "content": "cd369fc1"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/project-47a": {
+    "__comp": "17896441",
+    "content": "2189a003"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/capstone-integration--application-65e": {
+    "__comp": "14eb3368",
+    "__props": "0e9c23d3"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/introduction-5ef": {
+    "__comp": "14eb3368",
+    "__props": "a2f9aaf7"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-1-the-robotic-nervous-system-ros-2-976": {
+    "__comp": "14eb3368",
+    "__props": "91f5ee19"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-2-the-digital-twin-gazebo--unity-d35": {
+    "__comp": "14eb3368",
+    "__props": "59f81df2"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-3-the-ai-robot-brain-nvidia-isaac-23d": {
+    "__comp": "14eb3368",
+    "__props": "443fc4bd"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/-a80": {
+    "__comp": "17896441",
+    "content": "7a4fffdf"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/overview-7ee": {
+    "__comp": "17896441",
+    "content": "0631c0ae"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/-a70": {
+    "__comp": "17896441",
+    "content": "f019e686"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/architecture-7cc": {
+    "__comp": "17896441",
+    "content": "2f0ba0a6"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/concepts-diagrams-fca": {
+    "__comp": "17896441",
+    "content": "883e44f8"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/exercises-b8b": {
+    "__comp": "17896441",
+    "content": "301687c8"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/nodes-topics-3bb": {
+    "__comp": "17896441",
+    "content": "9361df6b"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/python-agents-0b8": {
+    "__comp": "17896441",
+    "content": "9104cbae"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/urdf-basics-62f": {
+    "__comp": "17896441",
+    "content": "75cc1916"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/-bf7": {
+    "__comp": "17896441",
+    "content": "ac22254c"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/beginner-explanations-27e": {
+    "__comp": "17896441",
+    "content": "57d5e05d"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/gazebo-unity-00a": {
+    "__comp": "17896441",
+    "content": "fc143ad1"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-properties-464": {
+    "__comp": "17896441",
+    "content": "743dfae6"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-sim-bb5": {
+    "__comp": "17896441",
+    "content": "0cc83ef5"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sensor-sim-9f9": {
+    "__comp": "17896441",
+    "content": "086374fc"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sim-to-real-challenges-bd1": {
+    "__comp": "17896441",
+    "content": "52ab9606"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/workflow-diagrams-a86": {
+    "__comp": "17896441",
+    "content": "a131597a"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/-9ce": {
+    "__comp": "17896441",
+    "content": "e1cc05d4"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/conceptual-diagrams-13d": {
+    "__comp": "17896441",
+    "content": "d675ef54"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/isaac-sim-cfa": {
+    "__comp": "17896441",
+    "content": "0787d826"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/navigation-2be": {
+    "__comp": "17896441",
+    "content": "808a5e90"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/obstacle-avoidance-c0f": {
+    "__comp": "17896441",
+    "content": "90feb6a0"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/perception-51f": {
+    "__comp": "17896441",
+    "content": "2daecc53"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/sim-to-real-cd0": {
+    "__comp": "17896441",
+    "content": "7155f7ae"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/-425": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "a7456010"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/docs-d52": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docsaba-d7c"
-    }
-  },
-  "/docs-4ce": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
-  },
-  "/docs-5e6": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/capstone/-173": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-capstone-cd-3-ad1"
-  },
-  "/docs/capstone/project-ec5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-capstone-project-218-831"
-  },
-  "/docs/category/capstone-integration--application-58b": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-capstone-integration-application-0-a-6-af8"
-  },
-  "/docs/category/introduction-f51": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-introduction-73-c-74a"
-  },
-  "/docs/category/module-1-the-robotic-nervous-system-ros-2-69a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-module-1-the-robotic-nervous-system-ros-2-b-0-c-bbb"
-  },
-  "/docs/category/module-2-the-digital-twin-gazebo--unity-93c": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-module-2-the-digital-twin-gazebo-unity-969-dd7"
-  },
-  "/docs/category/module-3-the-ai-robot-brain-nvidia-isaac-44d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-module-3-the-ai-robot-brain-nvidia-isaac-225-15b"
-  },
-  "/docs/intro/-135": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-7-a-4-831"
-  },
-  "/docs/intro/overview-002": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-overview-063-47a"
-  },
-  "/docs/module-1-ros/-df5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-f-01-d82"
-  },
-  "/docs/module-1-ros/architecture-8d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-architecture-2-f-0-5c4"
-  },
-  "/docs/module-1-ros/concepts-diagrams-d0b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-concepts-diagrams-883-50f"
-  },
-  "/docs/module-1-ros/exercises-ae1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-exercises-301-ee5"
-  },
-  "/docs/module-1-ros/nodes-topics-187": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-nodes-topics-936-97f"
-  },
-  "/docs/module-1-ros/python-agents-ca8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-python-agents-910-ac3"
-  },
-  "/docs/module-1-ros/urdf-basics-0ab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-1-ros-urdf-basics-75-c-8c3"
-  },
-  "/docs/module-2-simulation/-e3e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-ac-2-909"
-  },
-  "/docs/module-2-simulation/beginner-explanations-926": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-beginner-explanations-57-d-ba6"
-  },
-  "/docs/module-2-simulation/gazebo-unity-8ec": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-gazebo-unityfc-1-ec4"
-  },
-  "/docs/module-2-simulation/physics-properties-4c0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-physics-properties-743-3d8"
-  },
-  "/docs/module-2-simulation/physics-sim-adc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-physics-sim-0-cc-2dd"
-  },
-  "/docs/module-2-simulation/sensor-sim-6db": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-sensor-sim-086-1df"
-  },
-  "/docs/module-2-simulation/sim-to-real-challenges-5a3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-sim-to-real-challenges-52-a-c2d"
-  },
-  "/docs/module-2-simulation/workflow-diagrams-41c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-2-simulation-workflow-diagramsa-13-5e3"
-  },
-  "/docs/module-3-ai-brain/-27f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-ai-brain-e-1-c-034"
-  },
-  "/docs/module-3-ai-brain/conceptual-diagrams-055": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-ai-brain-conceptual-diagramsd-67-1ce"
-  },
-  "/docs/module-3-ai-brain/isaac-sim-1be": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-ai-brain-isaac-sim-078-c7e"
-  },
-  "/docs/module-3-ai-brain/navigation-d30": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-ai-brain-navigation-808-bcc"
-  },
-  "/docs/module-3-ai-brain/obstacle-avoidance-74f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-ai-brain-obstacle-avoidance-90-f-9a5"
-  },
-  "/docs/module-3-ai-brain/perception-e78": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-ai-brain-perception-2-da-89a"
-  },
-  "/docs/module-3-ai-brain/sim-to-real-e93": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-module-3-ai-brain-sim-to-real-715-901"
-  },
-  "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
-    "__context": {
-      "plugin": "plugin---a-74-9d6"
-    },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

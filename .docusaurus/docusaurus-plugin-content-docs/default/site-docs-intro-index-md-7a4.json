@@ -5,7 +5,7 @@
   "source": "@site/docs/intro/index.md",
   "sourceDirName": "intro",
   "slug": "/intro/",
-  "permalink": "/docs/intro/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro/index.md",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docs/category/introduction"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/introduction"
   },
   "next": {
     "title": "High-Level Concepts in Humanoid Robotics",
-    "permalink": "/docs/intro/overview"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/overview"
   }
 }

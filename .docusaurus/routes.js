@@ -3,235 +3,200 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'd52'),
+    path: '/Physical-AI-Humanoid-Robotics-Textbook/docs',
+    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs', 'd2a'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '4ce'),
+        path: '/Physical-AI-Humanoid-Robotics-Textbook/docs',
+        component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs', '4ac'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '5e6'),
+            path: '/Physical-AI-Humanoid-Robotics-Textbook/docs',
+            component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs', '580'),
             routes: [
               {
-                path: '/docs/capstone/',
-                component: ComponentCreator('/docs/capstone/', '173'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/', '377'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/capstone/project',
-                component: ComponentCreator('/docs/capstone/project', 'ec5'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/project',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/project', '47a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/capstone-integration--application',
-                component: ComponentCreator('/docs/category/capstone-integration--application', '58b'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/category/capstone-integration--application',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/category/capstone-integration--application', '65e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/introduction',
-                component: ComponentCreator('/docs/category/introduction', 'f51'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/category/introduction',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/category/introduction', '5ef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/module-1-the-robotic-nervous-system-ros-2',
-                component: ComponentCreator('/docs/category/module-1-the-robotic-nervous-system-ros-2', '69a'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-1-the-robotic-nervous-system-ros-2',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-1-the-robotic-nervous-system-ros-2', '976'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/module-2-the-digital-twin-gazebo--unity',
-                component: ComponentCreator('/docs/category/module-2-the-digital-twin-gazebo--unity', '93c'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-2-the-digital-twin-gazebo--unity',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-2-the-digital-twin-gazebo--unity', 'd35'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/module-3-the-ai-robot-brain-nvidia-isaac',
-                component: ComponentCreator('/docs/category/module-3-the-ai-robot-brain-nvidia-isaac', '44d'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-3-the-ai-robot-brain-nvidia-isaac',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-3-the-ai-robot-brain-nvidia-isaac', '23d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro/',
-                component: ComponentCreator('/docs/intro/', '135'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/', 'a80'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro/overview',
-                component: ComponentCreator('/docs/intro/overview', '002'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/overview',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/overview', '7ee'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-1-ros/',
-                component: ComponentCreator('/docs/module-1-ros/', 'df5'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/', 'a70'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-1-ros/architecture',
-                component: ComponentCreator('/docs/module-1-ros/architecture', '8d6'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/architecture',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/architecture', '7cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-1-ros/concepts-diagrams',
-                component: ComponentCreator('/docs/module-1-ros/concepts-diagrams', 'd0b'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/concepts-diagrams',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/concepts-diagrams', 'fca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-1-ros/exercises',
-                component: ComponentCreator('/docs/module-1-ros/exercises', 'ae1'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/exercises',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/exercises', 'b8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-1-ros/nodes-topics',
-                component: ComponentCreator('/docs/module-1-ros/nodes-topics', '187'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/nodes-topics',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/nodes-topics', '3bb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-1-ros/python-agents',
-                component: ComponentCreator('/docs/module-1-ros/python-agents', 'ca8'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/python-agents',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/python-agents', '0b8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-1-ros/urdf-basics',
-                component: ComponentCreator('/docs/module-1-ros/urdf-basics', '0ab'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/urdf-basics',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/urdf-basics', '62f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/',
-                component: ComponentCreator('/docs/module-2-simulation/', 'e3e'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/', 'bf7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/beginner-explanations',
-                component: ComponentCreator('/docs/module-2-simulation/beginner-explanations', '926'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/beginner-explanations',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/beginner-explanations', '27e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/gazebo-unity',
-                component: ComponentCreator('/docs/module-2-simulation/gazebo-unity', '8ec'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/gazebo-unity',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/gazebo-unity', '00a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/physics-properties',
-                component: ComponentCreator('/docs/module-2-simulation/physics-properties', '4c0'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-properties',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-properties', '464'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/physics-sim',
-                component: ComponentCreator('/docs/module-2-simulation/physics-sim', 'adc'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-sim',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-sim', 'bb5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/sensor-sim',
-                component: ComponentCreator('/docs/module-2-simulation/sensor-sim', '6db'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sensor-sim',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sensor-sim', '9f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/sim-to-real-challenges',
-                component: ComponentCreator('/docs/module-2-simulation/sim-to-real-challenges', '5a3'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sim-to-real-challenges',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sim-to-real-challenges', 'bd1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-2-simulation/workflow-diagrams',
-                component: ComponentCreator('/docs/module-2-simulation/workflow-diagrams', '41c'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/workflow-diagrams',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/workflow-diagrams', 'a86'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-3-ai-brain/',
-                component: ComponentCreator('/docs/module-3-ai-brain/', '27f'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/', '9ce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-3-ai-brain/conceptual-diagrams',
-                component: ComponentCreator('/docs/module-3-ai-brain/conceptual-diagrams', '055'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/conceptual-diagrams',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/conceptual-diagrams', '13d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-3-ai-brain/isaac-sim',
-                component: ComponentCreator('/docs/module-3-ai-brain/isaac-sim', '1be'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/isaac-sim',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/isaac-sim', 'cfa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-3-ai-brain/navigation',
-                component: ComponentCreator('/docs/module-3-ai-brain/navigation', 'd30'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/navigation',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/navigation', '2be'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-3-ai-brain/obstacle-avoidance',
-                component: ComponentCreator('/docs/module-3-ai-brain/obstacle-avoidance', '74f'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/obstacle-avoidance',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/obstacle-avoidance', 'c0f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-3-ai-brain/perception',
-                component: ComponentCreator('/docs/module-3-ai-brain/perception', 'e78'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/perception',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/perception', '51f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/module-3-ai-brain/sim-to-real',
-                component: ComponentCreator('/docs/module-3-ai-brain/sim-to-real', 'e93'),
+                path: '/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/sim-to-real',
+                component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/sim-to-real', 'cd0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -242,8 +207,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/Physical-AI-Humanoid-Robotics-Textbook/',
+    component: ComponentCreator('/Physical-AI-Humanoid-Robotics-Textbook/', '425'),
     exact: true
   },
   {

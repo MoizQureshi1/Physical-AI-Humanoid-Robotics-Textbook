@@ -5,7 +5,7 @@
   "source": "@site/docs/capstone/index.md",
   "sourceDirName": "capstone",
   "slug": "/capstone/",
-  "permalink": "/docs/capstone/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/capstone/index.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Capstone: Integration & Application",
-    "permalink": "/docs/category/capstone-integration--application"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/capstone-integration--application"
   },
   "next": {
     "title": "Capstone Project: The Autonomous Delivery Humanoid",
-    "permalink": "/docs/capstone/project"
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/project"
   }
 }
