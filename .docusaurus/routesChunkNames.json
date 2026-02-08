@@ -1,146 +1,189 @@
 {
-  "/Physical-AI-Humanoid-Robotics-Textbook/docs-d2a": {
-    "__comp": "5e95c892",
+  "/Physical-AI-Humanoid-Robotics-Textbook/__docusaurus/debug-483": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-6d3"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/__docusaurus/debug/config-d85": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-6d3"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/__docusaurus/debug/content-12e": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-6d3"
+    },
+    "__props": "__props---physical-ai-humanoid-robotics-textbook-docusaurus-debug-contenta-90-191"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/__docusaurus/debug/globalData-ffb": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-6d3"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/__docusaurus/debug/metadata-978": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-6d3"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/__docusaurus/debug/registry-c16": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-6d3"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/__docusaurus/debug/routes-640": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docusaurus-debugb-38-6d3"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs-d2a": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-docsaba-ff2"
     }
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs-4ac": {
-    "__comp": "a7bd4aaa",
-    "__props": "8323a835"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-humanoid-robotics-textbook-docs-832-cf4"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs-580": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/-377": {
-    "__comp": "17896441",
-    "content": "cd369fc1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-capstone-cd-3-e68"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/capstone/project-47a": {
-    "__comp": "17896441",
-    "content": "2189a003"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-capstone-project-218-b9d"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/capstone-integration--application-65e": {
-    "__comp": "14eb3368",
-    "__props": "0e9c23d3"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-robotics-textbook-docs-category-capstone-integration-application-0-e-9-e0f"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/introduction-5ef": {
-    "__comp": "14eb3368",
-    "__props": "a2f9aaf7"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-robotics-textbook-docs-category-introductiona-2-f-a1f"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-1-the-robotic-nervous-system-ros-2-976": {
-    "__comp": "14eb3368",
-    "__props": "91f5ee19"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-robotics-textbook-docs-category-module-1-the-robotic-nervous-system-ros-291-f-ae1"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-2-the-digital-twin-gazebo--unity-d35": {
-    "__comp": "14eb3368",
-    "__props": "59f81df2"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-robotics-textbook-docs-category-module-2-the-digital-twin-gazebo-unity-59-f-5b7"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/category/module-3-the-ai-robot-brain-nvidia-isaac-23d": {
-    "__comp": "14eb3368",
-    "__props": "443fc4bd"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---physical-ai-humanoid-robotics-textbook-docs-category-module-3-the-ai-robot-brain-nvidia-isaac-443-ee1"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/-a80": {
-    "__comp": "17896441",
-    "content": "7a4fffdf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-intro-7-a-4-b3f"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro/overview-7ee": {
-    "__comp": "17896441",
-    "content": "0631c0ae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-intro-overview-063-c6b"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/-a70": {
-    "__comp": "17896441",
-    "content": "f019e686"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-ros-f-01-c35"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/architecture-7cc": {
-    "__comp": "17896441",
-    "content": "2f0ba0a6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-ros-architecture-2-f-0-2b7"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/concepts-diagrams-fca": {
-    "__comp": "17896441",
-    "content": "883e44f8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-ros-concepts-diagrams-883-1e9"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/exercises-b8b": {
-    "__comp": "17896441",
-    "content": "301687c8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-ros-exercises-301-7f4"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/nodes-topics-3bb": {
-    "__comp": "17896441",
-    "content": "9361df6b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-ros-nodes-topics-936-cde"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/python-agents-0b8": {
-    "__comp": "17896441",
-    "content": "9104cbae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-ros-python-agents-910-353"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros/urdf-basics-62f": {
-    "__comp": "17896441",
-    "content": "75cc1916"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-1-ros-urdf-basics-75-c-fc1"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/-bf7": {
-    "__comp": "17896441",
-    "content": "ac22254c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-ac-2-9e3"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/beginner-explanations-27e": {
-    "__comp": "17896441",
-    "content": "57d5e05d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-beginner-explanations-57-d-b7c"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/gazebo-unity-00a": {
-    "__comp": "17896441",
-    "content": "fc143ad1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-gazebo-unityfc-1-3e9"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-properties-464": {
-    "__comp": "17896441",
-    "content": "743dfae6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-physics-properties-743-f19"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/physics-sim-bb5": {
-    "__comp": "17896441",
-    "content": "0cc83ef5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-physics-sim-0-cc-7df"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sensor-sim-9f9": {
-    "__comp": "17896441",
-    "content": "086374fc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-sensor-sim-086-0a4"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/sim-to-real-challenges-bd1": {
-    "__comp": "17896441",
-    "content": "52ab9606"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-sim-to-real-challenges-52-a-87e"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-simulation/workflow-diagrams-a86": {
-    "__comp": "17896441",
-    "content": "a131597a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-2-simulation-workflow-diagramsa-13-438"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/-9ce": {
-    "__comp": "17896441",
-    "content": "e1cc05d4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-ai-brain-e-1-c-741"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/conceptual-diagrams-13d": {
-    "__comp": "17896441",
-    "content": "d675ef54"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-ai-brain-conceptual-diagramsd-67-2f3"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/isaac-sim-cfa": {
-    "__comp": "17896441",
-    "content": "0787d826"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-ai-brain-isaac-sim-078-c50"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/navigation-2be": {
-    "__comp": "17896441",
-    "content": "808a5e90"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-ai-brain-navigation-808-047"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/obstacle-avoidance-c0f": {
-    "__comp": "17896441",
-    "content": "90feb6a0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-ai-brain-obstacle-avoidance-90-f-649"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/perception-51f": {
-    "__comp": "17896441",
-    "content": "2daecc53"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-ai-brain-perception-2-da-bac"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-ai-brain/sim-to-real-cd0": {
-    "__comp": "17896441",
-    "content": "7155f7ae"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-robotics-textbook-docs-module-3-ai-brain-sim-to-real-715-5dc"
   },
   "/Physical-AI-Humanoid-Robotics-Textbook/-425": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---physical-ai-humanoid-robotics-textbook-a-74-5e6"
     },
-    "config": "5e9f5e1a"
+    "config": "config---physical-ai-humanoid-robotics-textbook-5-e-9-d2b"
   }
 }
